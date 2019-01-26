@@ -1,0 +1,377 @@
+# squirrel.custom.yaml
+preset_color_schemes:
+  apathy:
+    author: "LIANG Hai"
+    back_color: 0xFFFFFF
+    border_height: 0
+    border_width: 0
+    candidate_format: "%c %@ "
+    comment_text_color: 0x999999
+    corner_radius: 5
+    font_face: "PingFangSC-Regular,HanaMinB"
+    font_point: 16
+    hilited_candidate_back_color: 0xFFF0E4
+    hilited_candidate_text_color: 0xEE6E00
+    horizontal: true
+    inline_preedit: true
+    label_font_face: "STHeitiSC-Light"
+    label_font_point: 12
+    name: "冷漠／Apathy"
+    text_color: 0x424242
+  aqua:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xeeeceeee
+    candidate_text_color: 0x000000
+    comment_text_color: 0x5a5a5a
+    hilited_candidate_back_color: 0xeefa3a0a
+    hilited_candidate_text_color: 0xffffff
+    hilited_comment_text_color: 0xfcac9d
+    hilited_text_color: 0x000000
+    name: "碧水／Aqua"
+    text_color: 0x606060
+  azure:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xee8b4e01
+    candidate_text_color: 0xffeacc
+    comment_text_color: 0xc69664
+    hilited_candidate_back_color: 0x00000000
+    hilited_candidate_text_color: 0x7ffeff
+    hilited_text_color: 0xffeacc
+    name: "青天／Azure"
+    text_color: 0xcfa677
+  clean_white:
+    author: "Chongyu Zhu <lembacon@gmail.com>, based on 搜狗「简约白」"
+    back_color: 0xeeeeee
+    border_height: 6
+    border_width: 6
+    candidate_format: "%c %@"
+    candidate_text_color: 0x000000
+    comment_text_color: 0x808080
+    corner_radius: 6
+    font_point: 16
+    hilited_candidate_back_color: 0xeeeeee
+    hilited_candidate_label_color: 0xa0c98915
+    hilited_candidate_text_color: 0xc98915
+    hilited_text_color: 0x000000
+    horizontal: true
+    label_color: 0x888888
+    label_font_point: 12
+    name: "简约白／Clean White"
+    text_color: 0x808080
+  dark_temple:
+    author: "佛振 <chen.sst@gmail.com>, based on ir_black"
+    back_color: 0x222222
+    candidate_text_color: 0xd8e3e6
+    comment_text_color: 0x606cff
+    hilited_back_color: 0x222222
+    hilited_candidate_back_color: 0x10000000
+    hilited_candidate_text_color: 0x92f6da
+    hilited_text_color: 0xffcf9a
+    name: "暗堂／Dark Temple"
+    text_color: 0x92f6da
+  dust:
+    author: "Superoutman <asticosmo@gmail.com>"
+    back_color: 0xeeffffff
+    border_color: 0xE0B693
+    border_height: 3
+    border_width: 8
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x555555
+    comment_text_color: 0x999999
+    corner_radius: 2
+    font_face: "HYQiHei-55S Book,HanaMinA Regular"
+    font_point: 14
+    hilited_candidate_back_color: 0xfff0e4
+    hilited_candidate_label_color: 0x555555
+    hilited_candidate_text_color: 0x000000
+    hilited_comment_text_color: 0x9e9e9e
+    hilited_text_color: 0x9e9e9e
+    horizontal: true
+    inline_preedit: true
+    label_color: 0xcbcbcb
+    label_font_face: SimHei
+    label_font_point: 10
+    name: "浮尘／Dust"
+    text_color: 0x9e9e9e
+  google:
+    author: "skoj <skoj@qq.com>"
+    back_color: 0xFFFFFF
+    border_color: 0xE2E2E2
+    candidate_text_color: 0x000000
+    comment_text_color: 0x6D6D6D
+    hilited_back_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xCE7539
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0xEBC6B0
+    hilited_text_color: 0x000000
+    name: "谷歌／Google"
+    text_color: 0x666666
+  ink:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xeeffffff
+    candidate_text_color: 0x000000
+    comment_text_color: 0x5a5a5a
+    hilited_candidate_back_color: 0xcc000000
+    hilited_candidate_text_color: 0xffffff
+    hilited_comment_text_color: 0x808080
+    hilited_text_color: 0x000000
+    name: "墨池／Ink"
+    text_color: 0x5a5a5a
+  lost_temple:
+    author: "佛振 <chen.sst@gmail.com>, based on ir_black"
+    back_color: 0xee303030
+    comment_text_color: 0xbb82e6ca
+    hilited_candidate_back_color: 0x82e6ca
+    hilited_candidate_text_color: 0x000000
+    hilited_comment_text_color: 0xbb203d34
+    hilited_text_color: 0x82e6ca
+    name: "孤寺／Lost Temple"
+    text_color: 0xe8f3f6
+  luna:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xdd000000
+    candidate_text_color: 0xeceeee
+    comment_text_color: 0xa5a5a5
+    hilited_candidate_back_color: 0x40000000
+    hilited_candidate_text_color: 0x7fffff
+    hilited_comment_text_color: 0x449c9d
+    hilited_text_color: 0x7fffff
+    name: "明月／Luna"
+    text_color: 0xa5a5a5
+  mojave_dark:
+    author: "xiehuc <xiehuc@gmail.com>"
+    back_color: 0x252320
+    border_color: 0x020202
+    border_color_width: 0
+    border_height: 6
+    border_width: 6
+    candidate_format: "%c %@"
+    candidate_text_color: 0xdedddd
+    comment_text_color: 0xdedddd
+    corner_radius: 5
+    font_face: PingFangSC
+    font_point: 16
+    hilited_back_color: 0x252320
+    hilited_candidate_back_color: 0xcb5d00
+    hilited_candidate_label_color: 0xffffff
+    hilited_candidate_text_color: 0xffffff
+    hilited_corner_radius: 3
+    hilited_text_color: 0xdedddd
+    horizontal: true
+    inline_preedit: true
+    label_color: 0x888785
+    label_font_point: 14
+    name: "沙漠夜／Mojave Dark"
+    text_color: 0xdedddd
+  psionics:
+    author: "雨過之後、佛振"
+    back_color: 0x444444
+    candidate_text_color: 0xeeeeee
+    comment_text_color: 0x808080
+    hilited_back_color: 0x444444
+    hilited_candidate_back_color: 0xd8bf00
+    hilited_candidate_label_color: 0xfafafa
+    hilited_candidate_text_color: 0xfafafa
+    hilited_comment_text_color: 0x444444
+    hilited_text_color: 0xeeeeee
+    name: "幽能／Psionics"
+    text_color: 0xc2c2c2
+  purity_of_essence:
+    author: "佛振"
+    back_color: 0xfafafa
+    candidate_text_color: 0x000000
+    comment_text_color: 0x808080
+    hilited_back_color: 0xfafafa
+    hilited_candidate_back_color: 0x444444
+    hilited_candidate_text_color: 0xeeeeee
+    hilited_text_color: 0x000000
+    name: "純粹的本質／Purity of Essence"
+    text_color: 0x2c2ccc
+  purity_of_form:
+    author: "雨過之後、佛振"
+    back_color: 0x444444
+    candidate_text_color: 0xeeeeee
+    comment_text_color: 0x808080
+    hilited_back_color: 0x444444
+    hilited_candidate_back_color: 0xfafafa
+    hilited_candidate_text_color: 0x000000
+    hilited_text_color: 0xeeeeee
+    name: "純粹的形式／Purity of Form"
+    text_color: 0xc2c2c2
+  solarized_rock:
+    author: "Aben <tntaben@gmail.com>, based on Ethan Schoonover's Solarized color scheme"
+    back_color: 0x362b00
+    border_color: 0x362b00
+    candidate_text_color: 0x969483
+    comment_text_color: 0xc098a12a
+    hilited_candidate_back_color: 0x8236d3
+    hilited_candidate_text_color: 0xffffff
+    hilited_comment_text_color: 0x362b00
+    hilited_text_color: 0x98a12a
+    name: "曬經石／Solarized Rock"
+    text_color: 0x8236d3
+  starcraft:
+    author: "Contralisk <contralisk@gmail.com>, original artwork by Blizzard Entertainment"
+    back_color: 0xee000000
+    border_color: 0x1010a0
+    candidate_text_color: 0x30bb55
+    comment_text_color: 0x1010d0
+    hilited_back_color: 0x000000
+    hilited_candidate_back_color: 0x00000000
+    hilited_candidate_text_color: 0x70ffaf
+    hilited_comment_text_color: 0x1010f0
+    hilited_text_color: 0xfecb96
+    name: "星際我爭霸／StarCraft"
+    text_color: 0xccaa88
+  apathy:
+    name: "冷漠 / Apathy"
+    author: "LIANG Hai <___@___.com>"
+    horizontal: true
+    inline_preedit: true
+    # 单行模式
+    candidate_format: "%c\u2005%@\u2005"
+    # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+    corner_radius: 2
+    border_height: 5
+    border_width: 7
+    font_face: "Lucida Grande"
+    # 我的系统简中字体已设定为冬青黑体；
+    # 此处设定西文字体让它自动回退，以免候选词里的西文用中文字体显示。
+    font_point: 18
+
+    # text_color: 0x666666
+    # back_color: 0xFFFFFF
+    # border_color: 0xE2E2E2
+    # candidate_text_color: 0x000000
+    # comment_text_color: 0x6D6D6D
+    # hilited_back_color: 0xFFFFFF
+    # hilited_candidate_back_color: 0xCE7539
+    # hilited_candidate_text_color: 0xFFFFFF
+    # hilited_comment_text_color: 0xEBC6B0
+    # hilited_text_color: 0x000000
+
+    label_font_face: "Lucida Grande"
+    label_font_point: 17
+    # label_color: 0xDDDDDD
+    # label_color 这个属性当前有 bug；
+  demo:
+    label_color: 0xf2a45a                           # 预选栏编号颜色
+    back_color: 0x333333                            # 背景颜色
+    candidate_text_color: 0xb9b9b9                  # 非第一后选项文字颜色
+    comment_text_color: 0xa5a5a5                    # 注解文字颜色
+    hilited_candidate_back_color: 0x333333          # 第一后选项背景颜色
+    hilited_candidate_text_color: 0xff7d00          # 第一后选项文字颜色
+    hilited_comment_text_color: 0x00a5ea            # 注解文字高亮
+    hilited_text_color: 0x7fffff                    # 拼音串高亮（需要开启内嵌编码）
+    text_color: 0xa5a5a5                            # 拼音串颜色（需要开启内嵌编码）
+
+    color_scheme: demo                        # 选择配色方案
+    horizontal: true                          # 候选窗横向显示
+    inline_preedit: false                     #关闭内嵌编码，这样就可以显示首行的拼音（MAC 下不建议开启）
+    corner_radius: 3                          # 窗口圆角半径
+    border_height: 4                          # 窗口边界高度，大于圆角半径才有效果
+    line_spacing: 1                           #候选词的行间距
+    spacing: 5                                #在非内嵌编码模式下，预编辑和候选词之间的间距
+    font_face: "Lantinghei TC Extralight"     # 预选栏文字字体，使用中文字体：兰亭黑 - 纤黑
+    font_point: 17                            # 预选栏文字字号
+    label_font_face: "Myriad Pro Light"       # 预选栏编号字体，当前为 Monaco 使用默认西文字体：Myriad Pro Light
+    label_font_point: 17                      # 预选栏编号字号
+    border_width: 4                           # 窗口边界宽度，大于圆角半径才有效果
+    
+
+us_keyboard_layout: true
+show_notifications_when: appropriate
+style:
+  color_scheme: demo                        # 选择配色方案
+  horizontal: true                          # 候选窗横向显示
+  inline_preedit: false                     #关闭内嵌编码，这样就可以显示首行的拼音（MAC 下不建议开启）
+  corner_radius: 3                          # 窗口圆角半径
+  border_height: 4                          # 窗口边界高度，大于圆角半径才有效果
+  line_spacing: 1                           #候选词的行间距
+  spacing: 5                                #在非内嵌编码模式下，预编辑和候选词之间的间距
+  font_face: "Lantinghei TC Extralight"     # 预选栏文字字体，使用中文字体：兰亭黑 - 纤黑
+  font_point: 17                            # 预选栏文字字号
+  label_font_face: "Myriad Pro Light"       # 预选栏编号字体，当前为 Monaco 使用默认西文字体：Myriad Pro Light
+  label_font_point: 17                      # 预选栏编号字号
+  border_width: 4                           # 窗口边界宽度，大于圆角半径才有效果
+  
+# 一些要默认英文输入的 app
+app_options:
+  com.agilebits.onepassword4:
+    ascii_mode: true
+  com.runningwithcrayons.Alfred-3:
+    ascii_mode: true
+  com.ScooterSoftware.BeyondCompare:
+    ascii_mode: true
+  com.kapeli.dashdoc:
+    ascii_mode: true
+  com.jetbrains.datagrip:
+    ascii_mode: true
+  com.jetbrains.PhpStorm:
+    ascii_mode: true
+  com.jetbrains.pycharm:
+    ascii_mode: true
+  com.sequelpro.SequelPro:
+    ascii_mode: true
+  com.bohemiancoding.sketch3:
+    ascii_mode: true
+  com.jetbrains.WebStorm:
+    ascii_mode: true
+  org.wireshark.Wireshark:
+    ascii_mode: true
+  com.velestar.vssh.osx:
+    ascii_mode: true
+  com.hnc.Discord:
+    ascii_mode: true
+  com.apptorium.Expressions:
+    ascii_mode: true
+  org.mozilla.firefox:
+    ascii_mode: true
+  com.DanPristupov.Fork:
+    ascii_mode: true
+  com.google.Chrome:
+    ascii_mode: true
+  com.tumult.Hype2:
+    ascii_mode: true
+  com.googlecode.iterm2:
+    ascii_mode: true
+  com.lastpass.LastPass:
+    ascii_mode: true
+  com.apple.mail:
+    ascii_mode: true
+  com.apple.iChat:
+    ascii_mode: true
+  com.fotonauts.MongoHub:
+    ascii_mode: true
+  com.initex.proxifier.macosx:
+    ascii_mode: true
+  com.happenapps.Quiver:
+    ascii_mode: true
+  com.apple.reminders:
+    ascii_mode: true
+  com.apple.Safari:
+    ascii_mode: true
+  com.qiuyuzhou.ShadowsocksX-NG:
+    ascii_mode: true
+  com.tinyspeck.slackmacgap:
+    ascii_mode: true
+  com.skype.skype:
+    ascii_mode: true
+  com.spotify.client:
+    ascii_mode: true
+  pl.com.salsoft.SQLiteStudio:
+    ascii_mode: true
+  com.sublimetext.3:
+    ascii_mode: true
+  com.nssurge.surge-mac:
+    ascii_mode: true
+  com.teamviewer.TeamViewer:
+    ascii_mode: true
+  com.apple.TextEdit:
+    ascii_mode: true
+  com.tapbots.TweetbotMac:
+    ascii_mode: true
+  com.apple.Terminal:
+    ascii_mode: true
+  com.realvnc.vncviewer:
+    ascii_mode: true
