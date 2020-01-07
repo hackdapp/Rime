@@ -1,6 +1,9 @@
 var:
-  last_build_time: 1548491473
-  previously_selected_schema: wubi_pinyin
+  last_build_time: 1578366416
+  previously_selected_schema: wubi86_jidian
   schema_access_time:
     emoji: 1548489384
-    wubi_pinyin: 1548490329
+    luna_pinyin: 1578363762
+    stroke: 1578022283
+    wubi86_jidian: 1578365460
+    wubi_pinyin: 1578363782

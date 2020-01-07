@@ -1,0 +1,6 @@
+*.userdb
+*.userdb/**
+build
+.history
+sync
+wubi86.userdb
